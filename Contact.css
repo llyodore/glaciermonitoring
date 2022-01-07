@@ -1,0 +1,200 @@
+.u-section-1 {
+  background-image: url("images/mont-aiguille-istock-gui00878_bd2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 682px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 236px;
+  margin: 103px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 64px;
+  height: 38px;
+  margin: 300px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -193px 614px 0 386px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 64px;
+  height: 38px;
+  margin: -31px auto 0 317px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 14px 526px 0 386px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 51px;
+  height: 51px;
+  margin: -38px auto 0 323px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 273px;
+  height: 334px;
+  margin: -104px auto 0 20px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 273px;
+  height: 334px;
+  margin: -334px 20px 0 auto;
+}
+
+.u-section-1 .u-image-6 {
+  width: 51px;
+  height: 51px;
+  margin: -118px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -38px 298px 0 602px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -70px 397px 60px 602px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 562px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 54px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 15px;
+    margin-right: 514px;
+    margin-left: 286px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 76px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-right: 268px;
+    margin-left: 286px;
+    width: 228px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -32px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 335px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-top: -335px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 198px;
+    margin-left: 502px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 297px;
+    margin-left: 502px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 404px;
+    margin-left: 176px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 158px;
+    margin-left: 176px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 88px;
+    margin-left: 392px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 187px;
+    margin-left: 392px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 323px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 314px;
+    margin-left: 86px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 68px;
+    margin-left: 86px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 99px;
+    margin-left: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 203px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 200px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 101px;
+    margin-left: 276px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -5px;
+    margin-right: 112px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 289px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 100px;
+  }
+}
